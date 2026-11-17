@@ -1,0 +1,18 @@
+Enter number of processes: 2
+
+Enter arrival time and burst time for P1: 5 7
+
+Enter arrival time and burst time for P2: 7 3
+
+Enter time quantum: 2
+
+Execution Sequence: P1 P2 P1 P2 P1 P1
+
+
+PID      AT      BT      CT      TAT     WT
+
+P1       5       7       15      10      3
+
+P2       7       3       12      5       2
+
+
